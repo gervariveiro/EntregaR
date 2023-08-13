@@ -1,6 +1,19 @@
 Entrega
 Recuperación y análisis de texto con R Educación Permanente FCS Consigna de Trabajo Final 2023
 
+En el repositorio hay un archivo PDF donde se muestran fundamentos del trabajo, instrucciones sobre las funciones utilizzadas y allazgos primarios.
+Dentro del código hay instrucciones y explicaciones de las librerías utilizadas y sobre la utilidad de las funciones aplicadas.  Se destaca la utilización de SPEECH y PUY para la construcción de las bases de datos.
+
+Se instalaron las siguientes librerías:
+-	Rvest
+-	Dplyr
+-	Quanteda
+-	Readtext
+-	Stringr
+-	ggplot2
+-	quanteda.textstats
+-	quanteda.textplots
+
 Introducción y fundamentación del trabajo
 
   Para realizar la entrega de la consigna final del curso de Recuperación y análisis de texto con R de Educación Permanente. Opte para trabajar como tema la cuestión Indígena en Uruguay desde los charrúas en el discurso del orden parlamentario. 
@@ -16,16 +29,7 @@ Un primer acercamiento trae consigo desde este curso es la posibilidad de trabaj
 Como muestra se presenta una base de datos que conforma 44 sesiones parlamentarias en su formato de diario de sesión, de las mismas se extraen los discursos sistematizados de los parlamentarios declarantes a través de la técnica de scraping aplicada en la web del parlamento. Esta herramienta fue desarrollada por  Nicolás Schmidt, politólogo del departamento de ciencias políticas de UdelaR. Todas estas sesiones tienen como temporalidad desde la fecha actual hasta principios de marzo del año Dos mil veinte.
 En cuanto a la selección de las sesiones, se realizó una búsqueda de los diarios de sesión donde se mencione la palabra indígena y charrúa. De la base de datos construida se tomó la variable speech, refiriendo a las intervenciones parlamentarias. Haciendo un conteo de palabras podemos encontrar que palabras y en qué contexto, se asocian con las palabras que elegimos para centralizar el trabajo.
 
-Sobre el código
-Se instalaron las siguientes librerías:
--	Rvest
--	Dplyr
--	Quanteda
--	Readtext
--	Stringr
--	ggplot2
--	quanteda.textstats
--	quanteda.textplots
+
   
-Dentro del código hay instrucciones y explicaciones de las librerías utilizadas y sobre la utilidad de las funciones aplicadas.  Se destaca la utilización de SPEECH y PUY para la construcción de las bases de datos.
+
 
