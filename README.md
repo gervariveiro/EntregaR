@@ -14,9 +14,10 @@ Se instalaron las siguientes librerías:
 -	quanteda.textstats
 -	quanteda.textplots
 
+
 Introducción y fundamentación del trabajo
 
-	Para realizar la entrega de la consigna final del curso de Recuperación y análisis de texto con R de Educación Permanente. Opté por trabajar como tema la presencia de la cuestión Indígena en Uruguay en el discurso del orden parlamentario. 
+Para realizar la entrega de la consigna final del curso de Recuperación y análisis de texto con R de Educación Permanente. Opté por trabajar como tema la presencia de la cuestión Indígena en Uruguay en el discurso del orden parlamentario. 
 	Los motivos que me llevaron a elegir este tema en principio se conectan con estudios de compañeros cercanos de la Facultad de Humanidades, realizando trabajos desde diversas aristas. Considero interesante también, el aporte sociológico para profundizar en una mirada sobre los discursos que ocupan en la agenda estatal y ciudadana este tema. 
 	La cuestión indígena en Uruguay es un tema de relevancia histórica, cultural, sociológica y política. La situación de los charrúas, una de las poblaciones indígenas originarias de Uruguay,  ha generado debates y reflexiones sobre la identidad nacional y los derechos humanos. La consideración de un punto de vista sociológico y político sobre esta temática es esencial para comprender cómo las dinámicas sociales y políticas han influido en la percepción y el tratamiento de las identidades y derechos de los pueblos indígenas en el país.
 	Parte de los nuevos discursos académicos que han circulado en la sociedad Uruguaya plantean la idea de la invisibilización de la presencia indígena en Uruguay. Siendo una cuestión históricamente marginada en la narrativa oficial. A pesar de las adversidades, las comunidades indígenas en Uruguay resisten conformando una conciencia colectiva y reivindicadora en cara a los derechos humanos. 
