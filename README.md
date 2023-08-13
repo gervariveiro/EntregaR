@@ -1,7 +1,7 @@
 Entrega
 Recuperación y análisis de texto con R Educación Permanente FCS Consigna de Trabajo Final 2023
 
-En el repositorio hay un archivo PDF donde se muestran fundamentos del trabajo, instrucciones sobre las funciones utilizzadas y allazgos primarios.
+  En el repositorio hay un archivo PDF donde se muestran fundamentos del trabajo, instrucciones sobre las funciones utilizzadas y allazgos primarios.
 Dentro del código hay instrucciones y explicaciones de las librerías utilizadas y sobre la utilidad de las funciones aplicadas.  Se destaca la utilización de SPEECH y PUY para la construcción de las bases de datos.
 
 Se instalaron las siguientes librerías:
