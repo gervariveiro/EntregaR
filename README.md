@@ -26,6 +26,6 @@ Se instalaron las siguientes librerías:
 -	ggplot2
 -	quanteda.textstats
 -	quanteda.textplots
--	
+  
 Dentro del código hay instrucciones y explicaciones de las librerías utilizadas y sobre la utilidad de las funciones aplicadas.  Se destaca la utilización de SPEECH y PUY para la construcción de las bases de datos.
 
